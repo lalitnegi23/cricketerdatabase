@@ -1,0 +1,30 @@
+.outerContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container{
+    display: flex;
+}
+
+.container2{
+    display: flex;
+}
+.container > div {
+    margin-left: 20px;
+}
+
+.batbowl{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container2 > div {
+    margin-left: 20px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+.layout{
+    max-width: 80%;
+    padding: 100px 0px 100px 100px;
+    /* margin: 50px;  */
+}
+
+.searched{
+    margin-top: 40px;
+}
+
+.searchIcon{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    cursor: pointer;
+}
